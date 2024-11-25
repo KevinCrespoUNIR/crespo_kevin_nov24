@@ -1,0 +1,3 @@
+#Ignorar archivos y directorios: #
+*.xsd
+top_secret
